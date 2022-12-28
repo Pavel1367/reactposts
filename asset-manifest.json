@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/pavel1367.github.io/reactposts.github.io/static/css/main.b1d2e0b8.css",
-    "main.js": "/pavel1367.github.io/reactposts.github.io/static/js/main.43872dab.js",
-    "index.html": "/pavel1367.github.io/reactposts.github.io/index.html",
-    "main.b1d2e0b8.css.map": "/pavel1367.github.io/reactposts.github.io/static/css/main.b1d2e0b8.css.map",
-    "main.43872dab.js.map": "/pavel1367.github.io/reactposts.github.io/static/js/main.43872dab.js.map"
+    "main.css": "/static/css/main.c8711ced.css",
+    "main.js": "/static/js/main.518c4c76.js",
+    "index.html": "/index.html",
+    "main.c8711ced.css.map": "/static/css/main.c8711ced.css.map",
+    "main.518c4c76.js.map": "/static/js/main.518c4c76.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1d2e0b8.css",
-    "static/js/main.43872dab.js"
+    "static/css/main.c8711ced.css",
+    "static/js/main.518c4c76.js"
   ]
 }
