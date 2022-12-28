@@ -13,7 +13,7 @@ export default function PostItem(props, remove) {
           <div>{props.post.body}</div>
         </div>
         <div className="post__btns">
-          <Button onClick={() => router(`/posts/${props.post.id}`)} >Открыть</Button>
+          <Button onClick={() => router(`/posts/${props.post.id}`)} >Open</Button>
           <Button onClick={() => props.remove(props.post)}>Delete</Button>
         </div>
       </div>
